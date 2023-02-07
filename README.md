@@ -1,6 +1,6 @@
 # Javascript-Slider--mouse-events
 
-#### this slider style is widely used in web sites. it is running otomatically when page loads. In addition that it stops and you can manupilate the image by arrows when you move the cursor on arrows
+#### this slider style is widely used in web sites. It is otomatically running when page loads. In addition that It stops and you can manupilate the image by left-right arrows when you move the cursor on arrows. I used following javascript topics in the project.
 
 #### if else
 #### forEach loop
